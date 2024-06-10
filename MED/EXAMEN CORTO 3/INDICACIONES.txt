@@ -1,0 +1,4 @@
+Indicaciones- Haciendo uso de la clase Libro proporcionada en esta guía y de la clase STACK de Java que
+implementa las operaciones de una pila, crear un programa que haga lo siguiente: - Que solicite al inicio la cantidad de libros a registrar. - Que solicite los datos por cada libro a ingresar (Titulo, Autor) - Al finalizar el ingreso de los datos que imprima en consola la información almacenada en
+la pila en el orden que se ingresó
+- Hacer uso al menos de los dos métodos siguientes: Push y Pop
